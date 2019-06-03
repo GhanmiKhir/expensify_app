@@ -20,7 +20,7 @@
     "css-loader": "0.28.4",
     "fstream": "1.0.12",
     "live-server": "^1.2.0",
-    "moment": "2.18.1",
+    "moment": "2.19.3",
     "node-sass": "4.12.0",
     "normalize.css": "8.0.1",
     "react": "16.0.0",
